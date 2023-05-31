@@ -1,0 +1,20 @@
+#div1{
+    background-color: lightcyan;
+    border-style: solid;
+    width: 400px;
+}
+.span1{
+    margin-left: 30px;  
+}
+body{
+    background-color: lightcoral;
+}
+.div{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 300px;
+}
+a{
+    color: black;
+}
